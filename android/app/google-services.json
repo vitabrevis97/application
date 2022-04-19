@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "855827247169",
+    "project_id": "auth-fb924",
+    "storage_bucket": "auth-fb924.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855827247169:android:59bd118eb8da4f94c296c0",
+        "android_client_info": {
+          "package_name": "com.example.onboarding_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855827247169-oefq9hq8u1nrhhnsvmbavg00uoemo1m6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvfsPqILLW0bfYZlw0F5jYXmSiV0Pz5p0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855827247169-oefq9hq8u1nrhhnsvmbavg00uoemo1m6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
